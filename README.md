@@ -3,8 +3,11 @@
 </p>
 
 FREE MULTIPORT
+
 Ijin Ip Dlu ya sayank.. 🤣
+
 GRATIS KOK....
+
 Bs Cat Wa 087721815317
 
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/Arya-Blitar22/anjing/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
