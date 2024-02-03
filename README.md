@@ -9,8 +9,14 @@ Ijin Ip Dlu ya sayank.. 🤣
 GRATIS KOK....
 
 https://www.facebook.com/aris.newby
-https://wa.me/6281931615811
+https://wa.me/628193161581
 
+
+````
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/Arya-Blitar22/anjing/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
+````
+
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/anjing/main/scp.png)
+
+![logo](https://raw.githubusercontent.com/Arya-Blitar22/anjing/main/scp1.png)
