@@ -29,3 +29,8 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 SETELAH TERINSTAL GANTI DOMAIN KALIAN SENDRI DAN MASUKIN DI ANGKA 8
 CEK STATUS RUN JIKA TROJANGO EROR LANGSUNG BUAT AKUN & COBA TES AUTO CEK RUNING SEMUA
+
+
+### Donasi Donk Seiklasnya 😊
+
+![logo](https://raw.githubusercontent.com/Arya-Blitar22/st-pusat/main/scc.png)
